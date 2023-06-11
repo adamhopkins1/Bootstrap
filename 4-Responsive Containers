@@ -1,0 +1,15 @@
+RESPONISIVE CONTAINERS
+
+1.Responsive containers allow us to alternate between default and fluid containers depending on the screen size.
+
+2.Responsive containers can have full width on smaller but fix the width on wider screens to prevent the content to over-expand.
+
+3. To utilize the responsive container the size categories are used : small (sm), Medium ( md), Large (lg), Extra-Large (xl), and Extra Extra Large (xxl).
+
+EXAMPLE 1:
+
+<div class="container-lg">
+...
+</div>
+
+
