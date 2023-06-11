@@ -1,0 +1,33 @@
+DEFAULT CONTAINERS
+
+A default container set the width of the page to a fixed value, and this value is determined on the size of the screen being viewed.
+
+DEFAULT CONTAINERS: PAGE MAX-WIDTH
+
+EXTRA SMALL - Full Width (100%)
+
+SMALL (sm) -540px
+
+MEDIUM (md) - 720px
+
+LARGE (lg) - 960px
+
+EXTRA-LARGE (xl) -1140px
+
+EXTRA EXTRA LARGE (xxl) -1320px
+
+EXAMPLE 1:
+If the screen width of your device is 750 pixlels, itt will fall into the small category (because it is more than 576 pixels and less than 768 pixels.
+Fixed width containers will set thhe maximum width of the page to 540 pixles.
+
+If the width of your computer monitor screen is 2800 pixels, it will fall into the extra-large category (because it is more than 1200 pixels). The page's maximum
+width will be set to 1140 pixels.
+
+EXAMPLE 2:
+
+<div class="container">
+
+...
+
+</div>
+
