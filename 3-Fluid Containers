@@ -1,0 +1,12 @@
+FLUID CONTAINERS
+
+1.Fluid containers set the page-width to the maximum available width of the screen
+
+2.To create a fluid container use the "container-fluid" class
+
+EXAMPLE:
+
+<div class="container-fluid">
+...
+</div>
+
