@@ -1,0 +1,28 @@
+BOOTSTRAP CONTAINERS
+
+1.There are three types of containers:
+
+A.Default
+
+B.Responsive
+
+C.Fluid
+
+
+Bootstrap groups into six categories based on their widths:
+
+EXTRA SMALL (xs)- <576 Pixels.
+
+SMALL (sm) - 576 pixles to <768 pixels.
+
+MEDIUM (md)- 768 pixels to <992 pixels.
+
+LARGE (lg)-992 pixels to <1200 pixels.
+
+EXTRA LARGE (xl) -1200 pixels to <1400 pixels.
+
+EXTRA EXTRA LARGE (xxl) - >=1400 Pixels.
+
+EXAMPLE 1:
+
+A bootstrap break-point is if your screen width is 1280 pixels, Bootstrap will categorize your screen as extra-large. If your screen is 680 pixels, it is considered small. 
